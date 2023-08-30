@@ -1,0 +1,2 @@
+data= read.csv("id3.csv")
+print(data)
